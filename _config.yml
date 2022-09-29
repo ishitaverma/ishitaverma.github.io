@@ -8,6 +8,8 @@
 ############################
 # --- Required options --- #
 ############################
+url: "http://ishitaverma.github.io"
+baseurl: ""
 
 # Name of website
 title: Ishita Verma
@@ -20,7 +22,7 @@ author: Ishita Verma
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "/"
   Blog: "blog"
 
 ################
