@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ishita Verma
+subtitle: Machine Learning Engineer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Machine Learning engineer at Adobe, working in the Globalization team. We apply machine learning based solutions to enhance customer experience of Adobe’s global product.  My research interests lie in the application of multimodal machine learning. In 2020, I finished my Masters in Computer Science from University of Maryland College Park. Previously, I completed my Bachelors in Computer Science from IIIT Delhi in 2018 and was advised by Dr. Chetan Arora. In 2017, I was a research intern at CMU advised by Dr. Abhinav Gupta.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm passionate about solving challenging problems through math and software which is why machine learning excites me! 
 
-What else do you need?
+When I’m not doing ML, I like to read (fiction: mystery, thrillers, non-fiction: narrative, science, self-help, health, finance & economics), work out, listen to music (genre depends on my mood) and watch TV (currently rewatching The Office).
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Why Globalization?
+
+Coming from a multi cultural place like India, I have a fair understanding of people from diverse backgrounds and understanding their needs and concerns and am curious to only learn more. So when I heard that I can do my bit to make AI inclusive, I jumped at that opportunity to make lives for global users easier one product at a time.
