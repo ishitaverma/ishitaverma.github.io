@@ -22,7 +22,7 @@ author: Ishita Verma
 ###############################################
 
 navbar-links:
-  Home: "index.html"
+  Home: "/"
   Blog: "blog"
   CV: "cv.pdf"
 
